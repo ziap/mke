@@ -1,4 +1,4 @@
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from .analog import set_voltage, read, map_range, read_percent, read_voltage
 from .digital import write, on, off, read
