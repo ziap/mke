@@ -9,7 +9,7 @@ setuptools.setup(
     name='mkeio',
     author='Bùi Huy Giáp',
     author_email='67962871+ziap@users.noreply.github.com',
-    description='MKE PyPI (Python Package Index)',
+    description='A microPython package for Vietduino RP2040 and hardware modules. Powered by MakerEdu.vn.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url=repo,
