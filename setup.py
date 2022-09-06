@@ -6,7 +6,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 repo = 'https://github.com/ziap/mke'
 
 setuptools.setup(
-    name='mke_pypi_test',
+    name='mkeio',
     author='Bùi Huy Giáp',
     author_email='67962871+ziap@users.noreply.github.com',
     description='MKE PyPI (Python Package Index)',
