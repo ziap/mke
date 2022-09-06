@@ -26,9 +26,8 @@ setuptools.setup(
         
         'Topic :: Software Development :: Libraries',
         'Topic :: Software Development :: Libraries :: Python Modules',
-        
-        'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3 :: Only',
+       
+        'Programming Language :: Python :: Implementation :: MicroPython',
         
         'Natural Language :: Vietnamese',
         
